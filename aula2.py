@@ -10,3 +10,5 @@ elif num1 % 2 == 0:
     print('par')
 else:
     print('impar')
+
+#print('privet')
